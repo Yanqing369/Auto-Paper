@@ -1,7 +1,7 @@
-一个自动爬取相关领域论文，并使用ChatGPT总结论文内容的脚本
+一个自动爬取相关领域论文，并使用ChatGPT总结论文内容的脚本\n
 使用原理
 1.该脚本会根据connected paper生成的论文map来爬取本领域相关论文的摘要、标题和信息
-2.使用chatGPT 4o-mini总结这些摘要的内容，并输出一篇摘要
+2.使用chatGPT 4o-mini总结这些摘要的内容，并输出一篇摘要\n
 
 使用方法
 1.找一篇本领域论文，放在connected paper网站上，生成map，复制map的url
